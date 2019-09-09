@@ -21,6 +21,6 @@ Wi-Fi   | 2.4Ghz b/g/n WCN3680
 Bluetooth | Bluetooth 4.0
 Positioning | Supports GPS, GLONASS, and BDS
 
-Copyright 2019, The AOSP Project
+Copyright 2016, The AOSP Project
 
 ![OnePlus X](https://cdn.opstatics.com/store/20170907/assets/images/support/support-list/model-specs-list/details/x-black.png)
