@@ -4,9 +4,6 @@
 
 ro.prj_name=15055
 
-# Updater
-lineage.updater.uri=https://raw.githubusercontent.com/YumeMichi/LineageOTA/lineage-16.0/api.json
-
 # RIL
 DEVICE_PROVISIONED=1
 persist.data.netmgrd.qos.enable=true
